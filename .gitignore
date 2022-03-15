@@ -1,0 +1,9 @@
+drw.o
+slock
+dwm.o
+slock.o
+config.h
+config.h.bck
+*.orig
+*.rej
+*.o
